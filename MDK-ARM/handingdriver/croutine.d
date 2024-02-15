@@ -1,0 +1,14 @@
+handingdriver\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/croutine.c
+handingdriver\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+handingdriver\croutine.o: D:\KEIL\ARM\ARMCC\Bin\..\include\stddef.h
+handingdriver\croutine.o: D:\KEIL\ARM\ARMCC\Bin\..\include\stdint.h
+handingdriver\croutine.o: ../Core/Inc/FreeRTOSConfig.h
+handingdriver\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+handingdriver\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+handingdriver\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+handingdriver\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+handingdriver\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+handingdriver\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+handingdriver\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+handingdriver\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/croutine.h
+handingdriver\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

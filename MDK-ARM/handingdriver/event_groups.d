@@ -1,0 +1,15 @@
+handingdriver\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/event_groups.c
+handingdriver\event_groups.o: D:\KEIL\ARM\ARMCC\Bin\..\include\stdlib.h
+handingdriver\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+handingdriver\event_groups.o: D:\KEIL\ARM\ARMCC\Bin\..\include\stddef.h
+handingdriver\event_groups.o: D:\KEIL\ARM\ARMCC\Bin\..\include\stdint.h
+handingdriver\event_groups.o: ../Core/Inc/FreeRTOSConfig.h
+handingdriver\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+handingdriver\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+handingdriver\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+handingdriver\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+handingdriver\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+handingdriver\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+handingdriver\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+handingdriver\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+handingdriver\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/event_groups.h

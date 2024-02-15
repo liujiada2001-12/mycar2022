@@ -1,0 +1,15 @@
+handingdriver\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/queue.c
+handingdriver\queue.o: D:\KEIL\ARM\ARMCC\Bin\..\include\stdlib.h
+handingdriver\queue.o: D:\KEIL\ARM\ARMCC\Bin\..\include\string.h
+handingdriver\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+handingdriver\queue.o: D:\KEIL\ARM\ARMCC\Bin\..\include\stddef.h
+handingdriver\queue.o: D:\KEIL\ARM\ARMCC\Bin\..\include\stdint.h
+handingdriver\queue.o: ../Core/Inc/FreeRTOSConfig.h
+handingdriver\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+handingdriver\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+handingdriver\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+handingdriver\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+handingdriver\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+handingdriver\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+handingdriver\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+handingdriver\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h

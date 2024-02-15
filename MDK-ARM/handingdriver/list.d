@@ -1,0 +1,12 @@
+handingdriver\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/list.c
+handingdriver\list.o: D:\KEIL\ARM\ARMCC\Bin\..\include\stdlib.h
+handingdriver\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+handingdriver\list.o: D:\KEIL\ARM\ARMCC\Bin\..\include\stddef.h
+handingdriver\list.o: D:\KEIL\ARM\ARMCC\Bin\..\include\stdint.h
+handingdriver\list.o: ../Core/Inc/FreeRTOSConfig.h
+handingdriver\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+handingdriver\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+handingdriver\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+handingdriver\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+handingdriver\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+handingdriver\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

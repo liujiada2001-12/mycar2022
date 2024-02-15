@@ -1,0 +1,13 @@
+handingdriver\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c
+handingdriver\heap_4.o: D:\KEIL\ARM\ARMCC\Bin\..\include\stdlib.h
+handingdriver\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+handingdriver\heap_4.o: D:\KEIL\ARM\ARMCC\Bin\..\include\stddef.h
+handingdriver\heap_4.o: D:\KEIL\ARM\ARMCC\Bin\..\include\stdint.h
+handingdriver\heap_4.o: ../Core/Inc/FreeRTOSConfig.h
+handingdriver\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+handingdriver\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+handingdriver\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+handingdriver\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+handingdriver\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+handingdriver\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+handingdriver\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
